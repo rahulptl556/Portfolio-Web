@@ -1,0 +1,10 @@
+NAV BAR : Container (Flex Space Between)
+            margin 0 auto (to centre)
+            use media queries to make responsive
+
+            John Doe -> Logo container (logo img, logo text)
+                        Flex, BaseLine, 
+            Nav Items -> Projects, Skills, Contact Us
+                        Flex, Gap, Text Deco None
+
+HERO SECTION : Flex
